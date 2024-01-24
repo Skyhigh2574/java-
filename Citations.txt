@@ -1,0 +1,14 @@
+1) http://deeplearning.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/
+
+2) https://machinelearningmastery.com/softmax-activation-function-with-python/#:~:text=The%20softmax%20function%20is%20used%20as%20the%20activation%20function%20in,more%20than%20two%20class%20labels.
+
+3) https://www.analyticsvidhya.com/blog/2021/04/artificial-neural-network-its-inspiration-and-the-working-mechanism/
+
+4) https://www.guru99.com/backpropogation-neural-network.html
+
+5)https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c#:~:text=The%20Momentum%20method%20uses%20the,is%20generally%20the%20best%20choice.
+
+6)https://analyticsindiamag.com/can-relu-cause-exploding-gradients-if-applied-to-solve-vanishing-gradients/#:~:text=ReLU%20can%20Solve%20the%20Vanishing%20Gradient%20Problem,-The%20sigmoid%20activation&text=This%20is%20because%20the%20sigmoid,one%20for%20large%20positive%20values.&text=The%20negative%20component%20of%20the,are%20simply%20set%20to%200.
+
+
+1) https://builtin.com/data-science/introduction-nlp
